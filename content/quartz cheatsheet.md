@@ -1,5 +1,5 @@
 ---
-unlisted: "true"
+draft: "true"
 ---
 # Quartz Cheat Sheet
 
