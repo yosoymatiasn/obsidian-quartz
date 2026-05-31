@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: yosoymatiasn.github.io/quartz
+  baseUrl: yosoymatiasn.github.io/obsidian-quartz
   ignorePatterns:
     - private
     - templates
